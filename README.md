@@ -46,6 +46,7 @@ It focuses on applying cloud fundamentals, security best practices, and automati
 aws_region = "eu-north-1"
 my_ip_cidr = "YOUR_PUBLIC_IP/32"
 key_name   = "YOUR_EXISTING_EC2_KEYPAIR"
+```
 
 ## Screenshot
 **Deployed Apache Website on EC2**
