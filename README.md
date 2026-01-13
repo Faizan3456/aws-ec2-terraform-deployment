@@ -48,6 +48,7 @@ my_ip_cidr = "YOUR_PUBLIC_IP/32"
 key_name   = "YOUR_EXISTING_EC2_KEYPAIR"
 
 ## Screenshot
-Deployed Apache Website on EC2
-<img width="537" height="284" alt="Apache running on EC2 (Terraform deployment)" src="https://github.com/user-attachments/assets/ba83937d-025c-470b-b7f3-efed43a0e0de" /> ```
+**Deployed Apache Website on EC2**
+
+![Apache running on EC2](https://github.com/user-attachments/assets/ba83937d-025c-470b-b7f3-efed43a0e0de)
 
